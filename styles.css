@@ -2,11 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #2a2a2a;
+    color: #ddd;
 }
 
 header {
-    background: #50b3a2;
+    background: #1a1a1a;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -17,24 +18,23 @@ main {
 }
 
 article {
-    background: #fff;
+    border-bottom: 1px solid #444;
     padding: 15px;
     margin-bottom: 15px;
 }
 
 article h2 {
-    color: #333;
+    color: #eee;
 }
 
 article p {
     font-size: 16px;
     line-height: 1.6em;
-    color: #666;
 }
 
 footer {
     text-align: center;
     padding: 30px 20px;
-    background: #50b3a2;
+    background: #1a1a1a;
     color: #fff;
 }
